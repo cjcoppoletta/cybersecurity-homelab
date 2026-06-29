@@ -1,7 +1,7 @@
 # Cybersecurity Home Lab
 
 A self-hosted blue team security lab built from open source tools to practice 
-SOC analysis, detection engineering, and incident response.
+SOC analysis as well as incident response.
 
 ## Lab Environment
 
